@@ -1,6 +1,6 @@
 # CVM++
 
-A mini programming language I built from scratch in C++ as part of the Even Semester Projects by Coding Club, IIT Guwahati.
+A mini programming language built from scratch in C++ as part of the Even Semester Projects by Coding Club, IIT Guwahati.
 
 The idea is simple you write code in a custom language (`.cvm` files), and this project handles everything needed to actually run it: reading the text, understanding it, converting it to instructions, and executing those instructions. No libraries doing the heavy lifting, just plain C++.
 
