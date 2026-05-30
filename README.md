@@ -176,7 +176,3 @@ Going into this I understood how to write C++ but had no idea how a language act
 The trickiest part was getting the jump instructions right for `if/else` and `while` you emit a jump before you know the target, then go back and patch it once you do. That took a bit of debugging to get right.
 
 ---
-
-## Reference
-
-The main resource I used was *Crafting Interpreters* by Robert Nystrom the full book is free at craftinginterpreters.com. Chapters 14 onwards cover exactly this kind of bytecode VM.
